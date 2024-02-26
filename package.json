@@ -1,5 +1,5 @@
 {
-  "name": "color-palette-generatorxxx",
+  "name": "color-palette-generatorxxxx",
   "version": "0.0.1",
   "description": "A utility to generate color palettes with multiple formats and modes",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [
   ],
   "author": "Allixina",
-  "homepage": "https://github.com/allixina/color-palette-generatorxxx",
+  "homepage": "https://github.com/allixina/color-palette-generatorxxxx",
   "license": "ISC",
 
   "dependencies": {
@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allixina/color-palette-generatorxxxgit"
+    "url": "git+https://github.com/allixina/color-palette-generatorxxxx.git"
   },
   "bugs": {
-    "url": "https://github.com/allixina/color-palette-generatorxxx/issues"
+    "url": "https://github.com/allixina/color-palette-generatorxxxx/issues"
   }
 }
