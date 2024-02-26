@@ -1,0 +1,28 @@
+{
+"name": "color-palette-generatorxxx",
+"version": "0.6.2",
+"description": "A tiny script for generating attractive random colors",
+"main": "index.js",
+"repository": {
+  "type": "git",
+  "url": "git://github.com/Allixina/color-palette-generatorxxx.git"
+},
+"files": [],
+"keywords": [
+  "attractive",
+  "random",
+  "color",
+  "generator"
+],
+"author": "Allixina",
+"license": "CC0",
+"bugs": {
+  "url": "https://github.com/Allixina/color-palette-generatorxxx/issues"
+},
+"homepage": "https://randomcolor.lllllllllllllllll.com/",
+"spm": {
+  "main": "index.js"
+},
+"devDependencies": {},
+"dependencies": {}
+}
