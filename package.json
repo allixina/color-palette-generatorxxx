@@ -1,25 +1,33 @@
-{
-  "name": "color-palette-generatorxxxx",
-  "version": "0.0.1",
-  "description": "A utility to generate color palettes with multiple formats and modes",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-  ],
-  "author": "Allixina",
-  "homepage": "https://github.com/allixina/color-palette-generatorxxxx",
-  "license": "ISC",
 
-  "dependencies": {
-    "randomcolor": "^0.6.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/allixina/color-palette-generatorxxxx.git"
-  },
-  "bugs": {
-    "url": "https://github.com/allixina/color-palette-generatorxxxx/issues"
+
+  {
+    "name": "color-palette-generatorxxxx",
+    "version": "0.0.1",
+    "description": "A utility to generate color palettes with multiple formats and modes",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "color",
+      "pallette",
+      "image"
+    ],
+  
+    "author": "Allixina",
+    "email": "githubstr4@gmail.com",
+    "homepage": "https://github.com/allixina/color-palette-generatorxxxx",
+    "url": "https://github.com/allixina/color-palette-generatorxxxx",
+    "license": "MIT",
+  
+    "dependencies": {
+      "randomcolor": "^0.6.2"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/allixina/color-palette-generatorxxxx.git"
+    },
+    "bugs": {
+      "url": "https://github.com/allixina/color-palette-generatorxxxx/issues"
+    }
   }
-}
