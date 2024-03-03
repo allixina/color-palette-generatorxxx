@@ -2,7 +2,7 @@
 
   {
     "name": "color-palette-generatorxxxx",
-    "version": "0.0.2",
+    "version": "1.6.2",
     "description": "A utility to generate color palettes with multiple formats and modes",
     "main": "index.js",
     "scripts": {
